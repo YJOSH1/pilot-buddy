@@ -1,2 +1,2 @@
 # pilot-buddy
-Website for pilots that provides tools useful to pilots, such as for aviation specific conversions.
+Website that provides tools useful for pilots, such as for aviation specific conversions.
